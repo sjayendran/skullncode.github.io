@@ -128,11 +128,19 @@ header .intro-text .skills {
 }
 
 
+.covered{
+  padding: 0.6em 0.2em 0.2em 0.2em;
+  background-color : #000;
+  border : 2px solid black;
+  border-radius :5px;
+}
+
 .app-store{
   display:inline;
-  width : 150px;
-  height : 48px;
+  width : 135px;
+  height : 35px;
 }
+
 .gstore{
   display:inline;
   width : 150px;
